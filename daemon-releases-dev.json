@@ -13,6 +13,19 @@
           "sha256": "7834f54bdd441ca6065211d2880c8d8d005d381862ed57cae23ac7c4b7d347b3"
         }
       }
+    },
+    "0.7.4-periscopes-dev.1": {
+      "published": "2026-10-24T16:40:44Z",
+      "downloads": {
+        "darwin-amd64": {
+          "url": "https://github.com/riptides-packages/daemon/releases/download/v0.7.4-periscopes-dev.1/periscopes-daemon_0.7.4-periscopes-dev.1_darwin_amd64.tar.gz",
+          "sha256": "56cff9410e4736fd66c92737cff10f8b040386f3a758f66cffe9577c99682aea"
+        },
+        "darwin-arm64": {
+          "url": "https://github.com/riptides-packages/daemon/releases/download/v0.7.4-periscopes-dev.1/periscopes-daemon_0.7.4-periscopes-dev.1_darwin_arm64.tar.gz",
+          "sha256": "ee54ebec3bfed1531d0432e5b584905582528b3be12e4504223ee94888bb078b"
+        }
+      }
     }
   }
 }
