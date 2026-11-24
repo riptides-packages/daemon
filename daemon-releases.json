@@ -1,8 +1,21 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "sequence": 5,
+  "sequence": 6,
   "releases": {
+    "0.7.10": {
+      "published": "2026-11-24T13:39:38Z",
+      "downloads": {
+        "darwin-amd64": {
+          "url": "https://github.com/riptides-packages/daemon/releases/download/v0.7.10/periscopes-daemon_0.7.10_darwin_amd64.tar.gz",
+          "sha256": "b6ce6187dfc7272b2d24c4792eccb95999fd3fb7f8988c2912114342f9c9a378"
+        },
+        "darwin-arm64": {
+          "url": "https://github.com/riptides-packages/daemon/releases/download/v0.7.10/periscopes-daemon_0.7.10_darwin_arm64.tar.gz",
+          "sha256": "027251c693dc2f7df0d2fd0c50ea09b9896909b6a936f82dcd45f7d730df9692"
+        }
+      }
+    },
     "0.7.5": {
       "published": "2026-11-02T12:55:56Z",
       "downloads": {
